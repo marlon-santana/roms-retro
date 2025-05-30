@@ -1,0 +1,27 @@
+<game>
+  <title>Batman</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot />
+  <publisher />
+  <developer>Atari Games</developer>
+  <year />
+  <genre>Brawler</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="" type="boxback" />
+  <thumb local="" type="cartridge" />
+  <thumb local="" type="boxfront" />
+  <thumb local="" type="fanart" />
+  <thumb local="M:\GAMES\a2600\screenshot\Batman (USA).jpg" type="screenshot">http://static.giantbomb.com/uploads/scale_large/16/160705/2263165-batmanscreen3.jpg</thumb>
+</game>

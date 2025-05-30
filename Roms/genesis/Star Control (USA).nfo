@@ -1,0 +1,28 @@
+<game>
+  <title>Star Control</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Star Control is a science-fiction wargame which pits the forces of the Alliance of Free Stars against those of the predatory Ur-Quan Hierarchy. The games are designed so that you can ease into play, familiarizing yourself with menus, options and player controls. The Alliance and Hierarchy each possess different types of warships. Each vessel has its own maneuvering and firing characteristics, plus a unique special power that you can employ when circumstances dictate.</plot>
+  <publisher>Ballistic</publisher>
+  <developer>Toys for Bob</developer>
+  <year>1991</year>
+  <genre>Action</genre>
+  <genre>Strategy</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Star Control (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/548-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Star Control (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/548-1.jpg</thumb>
+</game>

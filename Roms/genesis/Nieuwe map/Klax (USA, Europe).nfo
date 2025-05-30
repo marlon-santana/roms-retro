@@ -1,0 +1,29 @@
+<game>
+  <title>Klax</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>OverviewPlayers line up colored blocks into various patterns to make them disappear. Atari Games originally released it as a coin-op follow up to Tetris, which they were tangled in a legal dispute about at the time.GameplayKlax features a conveyor belt at the top of the screen which rolls toward the playing area, delivering a steady supply of colored blocks. The player controls a small device which sits at the interface between the conveyor belt and the playing area. By moving this left and right, the player can catch up to five blocks and deposit them in the playing area. Blocks are dropped in order of recency, with the newest block dropped first. Similarly, the player may launch blocks back up the conveyor belt in an attempt to "juggle" them to get the appropriate color ready.ScoringA Klax is the simplest pattern of three matching blocks. Each pattern is a multiplier based on the number of Klaxes it is worth. Four matching tiles in a row, as an example, are worth two Klaxes. Points are scored based on pattern size. The more blocks which are simultaneously removed, the higher the score. Empty space at the end of the round is also scored. After each round, the player may skip 5 or 10 stages, which results in a higher score multiplier, and more available drops. Difficulty is similarly ramped up faster. Stages have unique challenges, such as forming a specific pattern a number of times ("complete 5 diagonals").CompletionFailure to catch any block results in it falling down the gap between the conveyor belt and playing area and one drop being used. Once all of the drops are used, the player is given a chance to continue. Otherwise, the game ends. (In the original coin-op, the game ends when all drops are used.) Klax has 100 stages, and ends after completing the final stage.Blob BallBlob BallThe NES version of Klax includes Blob Ball under the title screen menu "stuff", a single-player pong-like minigame. The player controls a paddle over a wall of spikes, and deflects a blob to the opposite wall. Either button on the control pad changes the blob's direction unpredictably. There is no score, and unlimited lives. Programmer Dave O'Riva commented in an interview with The Warp Zone:Blob ball was just a lark. I wanted to have some humorous stuff on the cartridge, and the idea for this Pong-like "game" just sprang up. Most of it was coded in one evening, and then refined in "spare time" over the next week. The most common observation on it at the time was "I can't believe they let you ship with that."</plot>
+  <publisher />
+  <developer>Atari Games</developer>
+  <year />
+  <genre>Action</genre>
+  <genre>Strategy</genre>
+  <genre>Puzzle</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="" type="boxback" />
+  <thumb local="" type="cartridge" />
+  <thumb local="" type="boxfront" />
+  <thumb local="" type="fanart" />
+  <thumb local="M:\GAMES\a2600\screenshot\Klax (USA, Europe).gif" type="screenshot">http://static.giantbomb.com/uploads/scale_large/18/185326/2824486-2975253971-Klax_.gif</thumb>
+</game>

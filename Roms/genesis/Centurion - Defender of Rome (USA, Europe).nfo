@@ -1,0 +1,29 @@
+<game>
+  <title>Centurion: Defender of Rome</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Centurion: Defender of Rome is a turn-based strategy game. You start with one province, Rome, and one legion. To complete the game, you have to conquer all the provinces on the map. 
+
+One part of the game is micro-managing your provinces. You set up tax rates and make people happy by organizing games. In Rome, you can organize a chariot race, a gladiatorial combat or even a simulated naval battle; this starts an action mini-game where you control the chariot rider, gladiator or ship.</plot>
+  <publisher>Electronic Arts</publisher>
+  <developer>Bits of Magic</developer>
+  <year>1991</year>
+  <genre>Strategy</genre>
+  <detailUrl />
+  <maxPlayer>2</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Centurion - Defender of Rome (USA, Europe).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/462-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Centurion - Defender of Rome (USA, Europe).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/462-1.jpg</thumb>
+</game>

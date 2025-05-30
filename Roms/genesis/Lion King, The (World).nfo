@@ -1,0 +1,29 @@
+<game>
+  <title>The Lion King</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>The game is a side-scrolling platform game, with the controlled character having to leap, climb, run and descend from platform to platform. There is an exception during the level The Stampede, where Simba is running towards (or in the NES and Game Boy versions, running with the camera looking straight down on top of him) the camera dodging wildebeest and leaping over rocks.
+In most versions of the game two bars appear on the HUD. To the left is the roar meter, which must be fully charged for Simba's roar to be effective. To the right is the health bar which decreases when Simba is hurt. At the bottom left of the screen is a counter showing how many lives Simba has remaining. Health can be restored by collecting bugs which come in a variety of shapes and sizes. Some rare health-damaging bugs also exist.
+The player controls Simba (first as a cub, then later as an adult) in the main levels and either Timon or Pumbaa in the bonus levels.</plot>
+  <publisher>Virgin Interactive</publisher>
+  <developer>Virgin Interactive</developer>
+  <year>1994</year>
+  <genre>Adventure</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Lion King, The (World).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/669-1.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\screenshot\Lion King, The (World).jpg" type="screenshot">http://thegamesdb.net/banners/screenshots/669-1.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\fanart\Lion King, The (World).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/669-1.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Lion King, The (World).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/669-1.jpg</thumb>
+</game>

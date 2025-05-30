@@ -1,0 +1,27 @@
+<game>
+  <title>Mega Bomberman</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Mega Bomberman is a top-down action game. Control your Bomberman through various levels defeating multiple enemies and plenty of bosses. Each level consist of blocks for exploding and some blocks that don't explode. At times you will need the non-exploding blocks as shelter. The blocks that do explode reveal power-ups and eggs.</plot>
+  <publisher>Sega</publisher>
+  <developer>Hudson Soft</developer>
+  <year>1994</year>
+  <genre>Action</genre>
+  <detailUrl />
+  <maxPlayer>4+</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Mega Bomberman (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/5484-1.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\screenshot\Mega Bomberman (USA).jpg" type="screenshot">http://thegamesdb.net/banners/screenshots/5484-1.jpg</thumb>
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Mega Bomberman (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/5484-1.jpg</thumb>
+</game>

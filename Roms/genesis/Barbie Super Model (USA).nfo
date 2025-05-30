@@ -1,0 +1,29 @@
+<game>
+  <title>Barbie: Super Model</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Help Barbie become a great fashion model! This is an arcade game with many different activities to participate in.
+
+In each level, Barbie starts by going left to right with forced scrolling. She has a default speed and can speed up as well. She must avoid moving obstacles by moving up and down and controlling her speed. If she hits one, she loses a chance and it's game over if she runs out of chances. She must pick up items which grant point bonuses and extra chances.</plot>
+  <publisher>Hi-Tech</publisher>
+  <developer>Tahoe</developer>
+  <year>1992</year>
+  <genre>Action</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Barbie Super Model (USA).png" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4273-1.png</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="M:\Shield Games\Games\Games\fanart\Barbie Super Model (USA).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/4273-1.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Barbie Super Model (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4273-1.jpg</thumb>
+</game>

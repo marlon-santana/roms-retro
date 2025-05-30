@@ -1,0 +1,27 @@
+<game>
+  <title>Arcade Classics</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Includes Galaga, Galaxian, and Ms. Pac-Man.</plot>
+  <publisher />
+  <developer>Namco</developer>
+  <year />
+  <genre>Compilation</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="" type="boxback" />
+  <thumb local="" type="cartridge" />
+  <thumb local="" type="boxfront" />
+  <thumb local="" type="fanart" />
+  <thumb local="M:\GAMES\a2600\screenshot\Arcade Classics (USA, Europe).jpg" type="screenshot">http://static.giantbomb.com/uploads/scale_large/16/164924/2410086-cdi.jpg</thumb>
+</game>

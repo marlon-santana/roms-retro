@@ -1,0 +1,27 @@
+<game>
+  <title>Championship Bowling</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>The object of the game is the same as a regular game of bowling; score the highest to win. The game utilizes factors such as left or right-handedness, spin, power, and weight of the ball, which can affect the outcome of a throw.</plot>
+  <publisher>Mentrix Software, Inc.</publisher>
+  <developer>Soft Machine</developer>
+  <year>1993</year>
+  <genre>Sports</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Championship Bowling (USA).png" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4308-1.png</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="M:\Shield Games\Games\Games\fanart\Championship Bowling (USA).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/4308-1.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Championship Bowling (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4308-1.jpg</thumb>
+</game>

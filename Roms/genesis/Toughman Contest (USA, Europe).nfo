@@ -1,0 +1,28 @@
+<game>
+  <title>Toughman Contest</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Toughman Contest is a game based on the world famous boxing competition of the same name. You pick one of 24 fighters, compete in one of 5 locations from around the world, and re-create the Toughman tournament as seen on TV.</plot>
+  <publisher>EA Sports</publisher>
+  <developer>Visual Concepts</developer>
+  <year>1995</year>
+  <genre>Fighting</genre>
+  <genre>Sports</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Toughman Contest (USA, Europe).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4691-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Toughman Contest (USA, Europe).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4691-1.jpg</thumb>
+</game>

@@ -1,0 +1,27 @@
+<game>
+  <title>Jungle Book</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot />
+  <publisher />
+  <developer>IBM Multimedia</developer>
+  <year />
+  <genre>Adventure</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="" type="boxback" />
+  <thumb local="" type="cartridge" />
+  <thumb local="" type="boxfront" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="screenshot" />
+</game>

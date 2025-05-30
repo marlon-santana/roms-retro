@@ -1,0 +1,30 @@
+<game>
+  <title>Body Count</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Body Count has a simple story: aliens have invaded the Earth, and a lone soldier who is particularly skilled at shooting and sniping is called to save the planet. 
+
+The game is an arcade-style shooter. The player shoots from a first person perspective at enemies that keep appearing on the screen. Once a sufficient amount of enemies has been eliminated, the player is automatically transferred to the next fixed screen. On the way the player can pick special items that allow the use of a powerful all-screen attack a limited number of times.</plot>
+  <publisher />
+  <developer />
+  <year>1994</year>
+  <genre>Action</genre>
+  <genre>Shooter</genre>
+  <detailUrl />
+  <maxPlayer>1</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Body Count (Europe) (En,Fr,De,Es,It).png" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/23295-1.png</thumb>
+  <thumb local="M:\Shield Games\Games\Games\screenshot\Body Count (Europe) (En,Fr,De,Es,It).jpg" type="screenshot">http://thegamesdb.net/banners/screenshots/23295-1.jpg</thumb>
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Body Count (Europe) (En,Fr,De,Es,It).png" type="boxback">http://thegamesdb.net/banners/boxart/original/back/23295-1.png</thumb>
+</game>

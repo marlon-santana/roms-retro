@@ -1,0 +1,27 @@
+<game>
+  <title>Wheel of Fortune</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>A very basic translation of the popular game show Wheel Of Fortune, where you guess letters until you can guess the phrase. This CGA version has three old-school rounds of Wheel of Fortune (where the puzzles are simply "Phrase", "Title", "Person", etc.) and then a bonus round. You can compete against 2 computer players or up to three people can play against each other.</plot>
+  <publisher>Gametek</publisher>
+  <developer>Imagitec Design Inc.</developer>
+  <year>1992</year>
+  <genre>Puzzle</genre>
+  <detailUrl />
+  <maxPlayer>3</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Wheel of Fortune (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/727-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="M:\Shield Games\Games\Games\fanart\Wheel of Fortune (USA).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/727-1.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Wheel of Fortune (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/727-1.jpg</thumb>
+</game>

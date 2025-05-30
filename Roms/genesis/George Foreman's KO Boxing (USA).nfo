@@ -1,0 +1,29 @@
+<game>
+  <title>George Foreman's KO Boxing</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Featuring heavyweight champion George Foreman, this is a boxing simulation where players, taking the role of Foreman, go through a series of twelve rounds against different boxers to win the championship title belt.
+
+Played from an third-person perspective using a view from right over the shoulders over the boxer, players can move left and right to dodge incoming punches, block and throw left and right punches. The standard punch is a cross, but by holding the Up-key pressed, jabs can also be thrown.</plot>
+  <publisher>Flying Edge</publisher>
+  <developer>Beam Software</developer>
+  <year>1992</year>
+  <genre>Sports</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\George Foreman's KO Boxing (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4394-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\George Foreman's KO Boxing (USA).png" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4394-1.png</thumb>
+</game>

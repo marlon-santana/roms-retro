@@ -1,0 +1,27 @@
+<game>
+  <title>Jeopardy!</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Jeopardy! is an American quiz show featuring trivia in history, literature, the arts, pop culture, science, sports, geography, wordplay, and more. The show has a unique answer-and-question format in which contestants are presented with clues in the form of answers, and must phrase their responses in question form.</plot>
+  <publisher>Gametek</publisher>
+  <developer>Park Place Productions</developer>
+  <year>1992</year>
+  <genre>Puzzle</genre>
+  <detailUrl />
+  <maxPlayer>1</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Jeopardy! (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4465-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="M:\Shield Games\Games\Games\fanart\Jeopardy! (USA).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/4465-1.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Jeopardy! (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4465-1.jpg</thumb>
+</game>

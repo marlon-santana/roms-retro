@@ -1,0 +1,31 @@
+<game>
+  <title>Gunstar Heroes</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Gunstar Heroes is a side scrolling shooter. The player has four weapons to choose from, and they can be combined in various pairs to create a total of 14 unique weapons. In addition to the weapons, the player can engage enemies in close quarters combat. It is possible to grab and toss enemies, perform sliding and jumping attacks and a long-range skid.
+
+Unlike most games in the genre, the player has a life total calculated in numbers. Death to a player requires multiple hits but just one death will issue the option to continue from the start of the level or to end the game. Players have unlimited continues.
+
+The main highlight of the game are its boss encounters, which often feature large enemies made up of multiple sprites allowing for fluid movement.</plot>
+  <publisher>SEGA</publisher>
+  <developer>Treasure</developer>
+  <year>1993</year>
+  <genre>Shooter</genre>
+  <detailUrl />
+  <maxPlayer>2</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Gunstar Heroes (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/138-2.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\screenshot\Gunstar Heroes (USA).jpg" type="screenshot">http://thegamesdb.net/banners/screenshots/138-1.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\fanart\Gunstar Heroes (USA).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/138-1.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Gunstar Heroes (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/138-1.jpg</thumb>
+</game>

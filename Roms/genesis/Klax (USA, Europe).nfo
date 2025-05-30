@@ -1,0 +1,27 @@
+<game>
+  <title>Klax</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Klax features a conveyor belt at the top of the screen. It constantly rolls toward the playing area, delivering a steady supply of blocks. The player controls a small device which sits at the interface between the conveyor belt and the playing area, and can be moved left and right to catch the blocks and either deposit them in the playing area or push them back up the conveyor belt. The device can hold up to five blocks. A block which is not caught and placed in the playing area or pushed back up the belt is considered a drop. The blocks are solid colours, but there is also a flashing block which can be used as a wildcard on any colour.</plot>
+  <publisher>Tengen</publisher>
+  <developer>Tengen</developer>
+  <year>1990</year>
+  <genre>Puzzle</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Klax (USA, Europe).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/539-1.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\screenshot\Klax (USA, Europe).jpg" type="screenshot">http://thegamesdb.net/banners/screenshots/539-1.jpg</thumb>
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Klax (USA, Europe).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/539-1.jpg</thumb>
+</game>

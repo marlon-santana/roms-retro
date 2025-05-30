@@ -1,0 +1,29 @@
+<game>
+  <title>Another World</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Another World is a platform game, where the player uses the keyboard or gamepad to make the protagonist Lester run, jump, attack or perform other actions. In the initial part of the game, Lester is weaponless, able to kick at small creatures but otherwise vulnerable. After escaping with his alien ally, Lester acquires a laser pistol from a fallen foe. The pistol has three capabilities: a standard fire mode, the abilities to create force fields to block enemy fire, and a powerful charged shot that can break through force fields and some walls. Later, Lester also gains a plasma ball that can be used like a grenade to defeat foes. Enemies will also have the same capabilities, requiring the player to take advantage of the three gun modes and the environment to overcome hostile forces and escape.
+ 
+Lester and his alien ally cannot sustain any damage, and the game will be over if either takes a hit. However, the game uses numerous checkpoints, and the player can restart at the last point indefinitely. On older consoles without the ability to save a game, the player can write down an alphanumeric code for these checkpoints and re-enter it when restarting the game later.</plot>
+  <publisher>Virgin Games</publisher>
+  <developer>Delphine Software International</developer>
+  <year>1993</year>
+  <genre>Adventure</genre>
+  <detailUrl />
+  <maxPlayer>1</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Another World (Europe).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/9448-1.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\screenshot\Another World (Europe).jpg" type="screenshot">http://thegamesdb.net/banners/screenshots/9448-1.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\fanart\Another World (Europe).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/9448-1.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Another World (Europe).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/9448-1.jpg</thumb>
+</game>

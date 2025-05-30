@@ -1,0 +1,27 @@
+<game>
+  <title>Nobunaga's Ambition</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Nobunaga's Ambition is a turn-based strategy game which can be played in different modes. Gameplay is similar to Koei's better known Romance of the Three Kingdoms game. Players begin by selecting either a 17 regions scenario or a larger 50 scenario. Then, the player must select a daimyo, each of which is rated attributes in several categories; Age, Health, Ambition, Luck, Charm and IQ. As the game progresses, these values change depending on events in the game. The age value represents a time limit of sorts, as an elderly daimyo becomes increasingly likely to die of old age or sickness.</plot>
+  <publisher>KOEI</publisher>
+  <developer>KOEI</developer>
+  <year>1993</year>
+  <genre>Strategy</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Nobunaga's Ambition (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4536-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Nobunaga's Ambition (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4536-1.jpg</thumb>
+</game>

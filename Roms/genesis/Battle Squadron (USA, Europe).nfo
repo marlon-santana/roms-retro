@@ -1,0 +1,31 @@
+<game>
+  <title>Battle Squadron</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Battle Squadron is a classic arcade style shooter for 1 or 2 players, and a spiritual successor to Hybris. You take a space ship and fly it over a high tech hostile surface, and then into an organic setting. .
+
+You can control the number of 'credits' you have from 1 to 3. You choose how many lives you get. You also get to choose the max number of enemy bullets and their speed.
+
+You get powerups along the way that modify your weapons, and also the "Nova Smart Bomb".</plot>
+  <publisher>Electronic Arts</publisher>
+  <developer>Innerprise</developer>
+  <year>1990</year>
+  <genre>Shooter</genre>
+  <detailUrl />
+  <maxPlayer>2</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Battle Squadron (USA, Europe).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/3869-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Battle Squadron (USA, Europe).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/3869-1.jpg</thumb>
+</game>

@@ -1,0 +1,27 @@
+<game>
+  <title>NCAA Football</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>NCAA Football is an American football game for the Sega Mega Drive. It was only released in North America.</plot>
+  <publisher>Mindscape</publisher>
+  <developer>Mindscape</developer>
+  <year />
+  <genre>Sports</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\NCAA Football (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/20406-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\NCAA Football (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/20406-1.jpg</thumb>
+</game>

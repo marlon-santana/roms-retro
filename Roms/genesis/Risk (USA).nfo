@@ -1,0 +1,27 @@
+<game>
+  <title>Risk</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Players attempt to capture territories from other players by rolling higher die numbers. The game is won when one player has managed to occupy every territory.</plot>
+  <publisher>Parker Brothers</publisher>
+  <developer>Sculptured Software</developer>
+  <year>1994</year>
+  <genre>Strategy</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Risk (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/683-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Risk (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/683-1.jpg</thumb>
+</game>

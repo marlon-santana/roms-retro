@@ -1,0 +1,33 @@
+<game>
+  <title>Starflight</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Starflight is a space exploration, trading, and combat video game developed by Binary Systems and published by Electronic Arts in 1986. Originally developed for IBM compatible and Tandy systems, it was later released for the Amiga, Atari ST, Macintosh and Commodore 64. A fully revamped version of the game was developed for the Sega Mega Drive/Genesis in 1991.
+
+Set in the year 4620, the game puts players in the role of a starship captain sent to explore the galaxy. There is no set path, allowing players to switch freely between mining, ship-to-ship combat, and alien diplomacy. The broader plot of the game emerges slowly, as the player discovers that an ancient race of beings is causing stars to flare and destroy all living creatures.
+
+The game has been widely praised by both contemporary and modern critics, and is one of the earliest instances of a sandbox game. It led to the development of a sequel, Starflight 2: Trade Routes of the Cloud Nebula, and influenced the design of numerous other games for decades after its release.</plot>
+  <publisher>Electronic Arts</publisher>
+  <developer>Binary Systems</developer>
+  <year>1991</year>
+  <genre>Role-Playing</genre>
+  <genre>Sandbox</genre>
+  <genre>Strategy</genre>
+  <detailUrl />
+  <maxPlayer>1</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Starflight (USA, Europe) (v1.1).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4636-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="M:\Shield Games\Games\Games\fanart\Starflight (USA, Europe) (v1.1).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/4636-1.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Starflight (USA, Europe) (v1.1).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4636-1.jpg</thumb>
+</game>

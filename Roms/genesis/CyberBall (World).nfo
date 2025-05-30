@@ -1,0 +1,28 @@
+<game>
+  <title>Cyberball</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Cyberball brings this fast and furious action to life. Gameplay is essentially the same as the real sport, although the 'downs' are replaced by the bomb's heat gradually increasing towards 'critical'. After this it will explode and possession will be swapped. This is prevented when you cross the 50-yard line, lose possession or score a touchdown, in which cases it resets to 'cool'. Field goals and punts are not featured - the only kick is the initial kick-off you receive.</plot>
+  <publisher>SEGA</publisher>
+  <developer>Atari</developer>
+  <year>1990</year>
+  <genre>Action</genre>
+  <genre>Sports</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\CyberBall (World).png" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4326-1.png</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\CyberBall (World).png" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4326-1.png</thumb>
+</game>

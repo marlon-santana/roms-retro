@@ -1,0 +1,27 @@
+<game>
+  <title>Hyper Dunk</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>This is the European version of the game Double Drible.</plot>
+  <publisher>Konami</publisher>
+  <developer>Konami</developer>
+  <year>1994</year>
+  <genre>Sports</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Hyper Dunk (Europe).png" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/27520-1.png</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Hyper Dunk (Europe).png" type="boxback">http://thegamesdb.net/banners/boxart/original/back/27520-1.png</thumb>
+</game>

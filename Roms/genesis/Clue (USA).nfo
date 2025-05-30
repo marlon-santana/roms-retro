@@ -1,0 +1,27 @@
+<game>
+  <title>Clue</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>In addition to play by the original rules, Clue has an additional mode that allows movement via "points." Each turn begins with nine points and every action the player takes costs points. The player can only do as many things as he has points. For example, moving from square to square costs one point, making a suggestion costs three points. Many players prefer this mode of play as it makes the game more balanced since each player gets the same number of "moves" each turn.</plot>
+  <publisher>Parker Bros.</publisher>
+  <developer>Sculptured Software</developer>
+  <year>1992</year>
+  <genre>Strategy</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Clue (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4316-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="M:\Shield Games\Games\Games\fanart\Clue (USA).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/4316-2.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Clue (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4316-1.jpg</thumb>
+</game>

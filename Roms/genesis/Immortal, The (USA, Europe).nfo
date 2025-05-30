@@ -1,0 +1,32 @@
+<game>
+  <title>The Immortal</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>The Immortal is an isometric action-adventure game.
+
+Your old mentor Mordamir has disappeared. Probably kidnapped. You're not too sure where he might be, but a dungeon is always a good place to look, so you seek out the nearest one and plunge into its depths. Beware: 8 levels of isometric death await.
+
+The Immortal is the prototype of a trial-and-error game. Progress is made by encountering a hazard, dying, solving the problem, encountering the next hazard. To solve a level, you have to know its traps and their patterns by heart. As frustrating as this may sound (it is), The Immortal quite cleverly balances annoyance with curiosity and graphical rewards.</plot>
+  <publisher>Electronic Arts</publisher>
+  <developer>Electronic Arts</developer>
+  <year>1993</year>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Immortal, The (USA, Europe).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/489-2.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\screenshot\Immortal, The (USA, Europe).jpg" type="screenshot">http://thegamesdb.net/banners/screenshots/489-1.jpg</thumb>
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Immortal, The (USA, Europe).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/489-2.jpg</thumb>
+</game>

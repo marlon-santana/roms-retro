@@ -1,0 +1,27 @@
+<game>
+  <title>Monopoly</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>This is an adaptation of the Monopoly board game for home consoles and computers, completely reproducing all aspects of gameplay. Player movements can be presented as 3D animations, but those can be optionally turned off for those who don't want to see animations. There can be up to 6 players at once, and it can be played over the Internet on those platforms which support such connections. Some versions have music in MIDI format, with WAV sound effects. Roll dice, spin around the board, and don't forget to have fun as you pass GO!</plot>
+  <publisher>Parker Brothers</publisher>
+  <developer>Sculptured Software</developer>
+  <year>1992</year>
+  <genre>Puzzle</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Monopoly (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4513-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Monopoly (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4513-1.jpg</thumb>
+</game>

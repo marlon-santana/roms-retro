@@ -1,0 +1,27 @@
+<game>
+  <title>Space Invaders '91</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Space Invaders '91 is a port of the the coin-op Space Invaders '91, just like Super Space Invaders for other platforms, but still different from those. This version differs from Super Space Invaders in that there are no cutscenes, there is only one mode of play as opposed to SSI's two, and there is no stage select.</plot>
+  <publisher>Taito</publisher>
+  <developer>Taito</developer>
+  <year>1991</year>
+  <genre>Shooter</genre>
+  <detailUrl />
+  <maxPlayer>1</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Space Invaders 91 (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/698-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Space Invaders 91 (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/698-1.jpg</thumb>
+</game>

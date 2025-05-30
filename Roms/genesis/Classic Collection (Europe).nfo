@@ -1,0 +1,31 @@
+<game>
+  <title>Classic Collection</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>A collection of four games on a single cartridge, selectable from an in-game menu. The games included are:
+Alex Kidd in the Enchanted Castle
+Altered Beast
+Flicky
+Gunstar Heroes</plot>
+  <publisher>SEGA</publisher>
+  <developer>Various</developer>
+  <year>1994</year>
+  <genre>Action</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Classic Collection (Europe).png" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4314-1.png</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Classic Collection (Europe).png" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4314-1.png</thumb>
+</game>

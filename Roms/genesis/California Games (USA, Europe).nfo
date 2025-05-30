@@ -1,0 +1,33 @@
+<game>
+  <title>California Games</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Events:
+Half Pipe
+Roller skating
+Surfing
+BMX
+Footbag
+Flying Disk</plot>
+  <publisher>Epyx</publisher>
+  <developer>Epyx</developer>
+  <year>1991</year>
+  <genre>Sports</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\California Games (USA, Europe).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4305-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="M:\Shield Games\Games\Games\fanart\California Games (USA, Europe).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/4305-1.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\California Games (USA, Europe).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4305-1.jpg</thumb>
+</game>

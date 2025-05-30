@@ -1,0 +1,27 @@
+<game>
+  <title>Shining Force</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Shining Force is a turn-based tactical RPG. Battles take place in square grids, and each unit occupies 1 square. Each unit can move up to a fixed amount of squares along the battlefield, determined by its Move statistic. Depending on its location relative to enemies and to allies, a unit can also perform one action: attack, cast a spell, use an item, or search the area. Some commands, such as equipping or dropping items, don't count as actions. The order of turns is determined by the unit's agility score and a random seed.</plot>
+  <publisher>Sega</publisher>
+  <developer>Camelot Software Planning</developer>
+  <year>1992</year>
+  <genre>Role-Playing</genre>
+  <detailUrl />
+  <maxPlayer>1</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Shining Force (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/183-1.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\screenshot\Shining Force (USA).jpg" type="screenshot">http://thegamesdb.net/banners/screenshots/183-1.jpg</thumb>
+  <thumb local="M:\Shield Games\Games\Games\fanart\Shining Force (USA).jpg" type="fanart">http://thegamesdb.net/banners/fanart/original/183-1.jpg</thumb>
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Shining Force (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/183-1.jpg</thumb>
+</game>

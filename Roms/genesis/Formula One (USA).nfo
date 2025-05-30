@@ -1,0 +1,29 @@
+<game>
+  <title>Formula One</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>F1 is an Official Formula One Racing Game. There are two modes of play available: "Arcade", "Grand Prix". In both of these modes you complete a certain number of laps (4, 8, or 12) and select which circuit that you want to race on. The circuits include San Marino, France, Britain, Germany, Italy, Portugal, Japan, and Australia. Some circuits are easy, while some are difficult. 
+
+There are slight differences between the two modes. For instance, "Arcade" allows you to select the circuit in any order that you like, whereas "Grand Prix" only allows you to fine-tune your car before starting a race. You also need to race a circuit in the order that they appear on the circuit selection screen, but you can skip a track if you want.</plot>
+  <publisher>Domark</publisher>
+  <developer>Lankhor</developer>
+  <year>1993</year>
+  <genre>Racing</genre>
+  <detailUrl />
+  <maxPlayer>2</maxPlayer>
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Formula One (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/8091-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Formula One (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/8091-1.jpg</thumb>
+</game>

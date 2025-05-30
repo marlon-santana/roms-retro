@@ -1,0 +1,29 @@
+<game>
+  <title>Zoop</title>
+  <originalTitle />
+  <alternateTitle />
+  <platform>Genesis</platform>
+  <plot>Zoop is a fast-paced puzzle game in which the player eliminates colored shapes that are approaching his alter ego, another colored shape, before they reach the top, somewhat similarly to Tetris.
+
+In order to eliminate the other shapes, you must point your piece at it and 'fire'. If the shape is the same color as your piece, the shape is eliminated, as well as all of the shapes of the same color behind it, until your piece hits a piece of a different color. If the shape is of a different color, or it is hit when collecting a line of similar shapes, your piece exchanges colors with the shape.</plot>
+  <publisher>Viacom</publisher>
+  <developer>Hookstone Ltd.</developer>
+  <year>1995</year>
+  <genre>Puzzle</genre>
+  <detailUrl />
+  <maxPlayer />
+  <region />
+  <media />
+  <perspective />
+  <controller />
+  <version />
+  <rating />
+  <votes />
+  <isFavorite>0</isFavorite>
+  <launchCount>0</launchCount>
+  <thumb local="M:\Shield Games\Games\Games\boxfront\Zoop (USA).jpg" type="boxfront">http://thegamesdb.net/banners/boxart/original/front/4752-1.jpg</thumb>
+  <thumb local="" type="screenshot" />
+  <thumb local="" type="fanart" />
+  <thumb local="" type="cartridge" />
+  <thumb local="M:\Shield Games\Games\Games\boxback\Zoop (USA).jpg" type="boxback">http://thegamesdb.net/banners/boxart/original/back/4752-1.jpg</thumb>
+</game>
